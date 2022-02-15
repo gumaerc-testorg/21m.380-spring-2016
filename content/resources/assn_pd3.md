@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains information regarding music and technology: Sound
   design.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-380-music-and-technology-sound-design-spring-2016/f4157fde66f770d42fa10b7932ca082d_assn_pd3.zip
+file: /media/courses/21m-380-music-and-technology-sound-design-spring-2016/f4157fde66f770d42fa10b7932ca082d_assn_pd3.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: assn_pd3.zip
 uid: f4157fde-66f7-70d4-2fa1-0b7932ca082d
