@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: MIT21M_380S16_asn_fp4.pdf
 uid: 67ac2c8b-3888-07ad-0d19-e7add0a03094

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: 'RD10: Granular Synthesis'
 uid: 3120b4de-9ae3-37d7-c9a2-603b18c3863b

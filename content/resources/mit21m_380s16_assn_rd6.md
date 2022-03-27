@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: 'RD6: Digital Audio'
 uid: b2176e04-3bb3-066c-937b-5b8bd58531d7

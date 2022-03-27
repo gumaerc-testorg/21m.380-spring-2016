@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Other
 title: assn_fp4_sail.zip
 uid: 6593112d-5c57-2d03-d628-a0e91d1f29cd

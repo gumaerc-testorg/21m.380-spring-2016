@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: 'PD2: Abstractions'
 uid: a9d92a87-5a12-094c-302c-8470ec1bd5bf

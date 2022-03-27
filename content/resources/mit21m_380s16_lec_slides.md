@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc
 resourcetype: Document
 title: '21M.380 Sound Design: Lecture Slides'
 uid: 73bb2f51-aa99-1eff-bdb3-15e9d49f8d08

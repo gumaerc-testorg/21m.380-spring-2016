@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: a357f3bf-5501-e8df-cd29-6f5bd448d947
 resourcetype: Document
 title: 'Quiz 2 Solutions : Sound Synthesis Techniques'
 uid: 520b3742-233d-d867-8734-fe59ca9b9a9f

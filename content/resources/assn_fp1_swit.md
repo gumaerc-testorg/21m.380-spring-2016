@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Other
 title: assn_fp1_swit.zip
 uid: 3648435c-64e2-ed1e-9370-60da16abf91c

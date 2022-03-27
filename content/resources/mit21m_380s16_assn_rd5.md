@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: 'RD5: Perception of Sound and Soundwalking'
 uid: 00d8f7a7-2148-3a99-e666-9a13d61234b0

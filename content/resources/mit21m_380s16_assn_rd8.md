@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: 'RD8: Waveshaping and Wavetable Synthesis'
 uid: 047893c1-72ce-7911-3761-6fd5eb1193fc

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 25b295d7-aa9b-908d-da7c-839bfc27fb6b
 resourcetype: Document
 title: Student Enrollment Questionnaire
 uid: b0ebff77-383d-3b6a-3687-60fbe1c767d8

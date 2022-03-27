@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Document
 title: 'RD2: The Art of Foley and Product Sound Design'
 uid: b5e2422a-ca7f-71b5-fdc6-4c189fb7df92

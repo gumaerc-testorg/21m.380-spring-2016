@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: a357f3bf-5501-e8df-cd29-6f5bd448d947
 resourcetype: Document
 title: 'Quiz 1: Physics and Perception of Sound; Digital Audio'
 uid: a30285e7-4692-321c-9447-65f2c79455f7

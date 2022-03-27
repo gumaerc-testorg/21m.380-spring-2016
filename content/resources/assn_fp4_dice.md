@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Other
 title: assn_fp4_dice.zip
 uid: b3a0b721-092b-c869-e90d-161f42cf72e7

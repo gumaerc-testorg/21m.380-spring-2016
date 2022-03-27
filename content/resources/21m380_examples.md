@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc
 resourcetype: Other
 title: 21m380_examples.zip
 uid: 472dfb23-3e5c-a450-5a27-12328ca64d3a

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
 resourcetype: Other
 title: assn_fp3_motr.zip
 uid: 166bdcae-92c2-7d69-400c-55d14f27d04c
