@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 ---
@@ -54,12 +55,12 @@ Instructor Insights
 
 _Below, Dr. Florian Hollerweger describes various aspects of how he teachers 21M.380 Music and Technology: Sound Design._
 
-*   [Course Inspiration and Design]({{< baseurl >}}/pages/instructor-insights/course-inspiration-and-design)
-*   [Teaching with Technology (and Without)]({{< baseurl >}}/pages/instructor-insights/teaching-with-technology-and-without)
-*   [Learning Actively in Groups]({{< baseurl >}}/pages/instructor-insights/learning-actively-in-groups)
-*   [Using Surveys to Get to Know Students]({{< baseurl >}}/pages/instructor-insights/using-surveys-to-get-to-know-students)
-*   [Assessing Student Learning in Creative Contexts]({{< baseurl >}}/pages/instructor-insights/assessing-student-learning-in-creative-contexts)
-*   [Engaging Deeply in the Design Process]({{< baseurl >}}/pages/instructor-insights/engaging-deeply-in-the-design-process)
+*   {{< resource_link b2276e1f-c663-0818-213d-3b83c6449b38 "Course Inspiration and Design" >}}
+*   {{< resource_link 7d747e12-0f5b-8bc5-aceb-7df72a18708a "Teaching with Technology (and Without)" >}}
+*   {{< resource_link a759ba72-a24c-006c-4fff-f6421262d7d1 "Learning Actively in Groups" >}}
+*   {{< resource_link 9a135d4a-9e9f-94dc-4294-b14eb4eff138 "Using Surveys to Get to Know Students" >}}
+*   {{< resource_link f6d57f01-33d4-3f79-7996-735fd247192d "Assessing Student Learning in Creative Contexts" >}}
+*   {{< resource_link cda34d48-5d89-c581-e892-74ad3eb6e8e4 "Engaging Deeply in the Design Process" >}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
@@ -87,7 +88,7 @@ The students' grades were based on the following activities:
 
 ### Instructor Insights on Assessment
 
-Read Dr. Florian Hollerweger’s insights about [assessing student learning]({{< baseurl >}}/pages/instructor-insights/assessing-student-learning-in-creative-contexts).
+Read Dr. Florian Hollerweger’s insights about {{< resource_link f6d57f01-33d4-3f79-7996-735fd247192d "assessing student learning" >}}.
 
 Student Information
 -------------------
