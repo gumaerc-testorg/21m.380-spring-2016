@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Dr. Florian Hollerweger describes how he uses student\
+  \ surveys in 21M.380 Music and Technology: Sound Design to gain insight into students\u2019\
+  \ background knowledge and motivation for taking the course. "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

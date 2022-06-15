@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Dr. Florian Hollerweger discusses how he includes group
+  work opportunities in 21M.380 Music and Technology: Sound Design and shares three
+  examples.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,11 +25,11 @@ One thing I am trying to do more of in all my classes is to provide opportunitie
 Steam Train Whistle Example
 ---------------------------
 
-![Archival black-and-white photo, side view of steam locomotive pulling several cars over a low bridge. Steam is blowing up out of the whistle.]({{< resource_file 37a9f0d4-94bb-0d26-1a41-1aefec3022a9 >}})
+{{< resource 37a9f0d4-94bb-0d26-1a41-1aefec3022a9 >}}
 
 Class P6 (C3229), No. 480 locomotive - Engine attached to the Royal train for the Duke of York’s visit to Australia circa 1900. (Public domain image. Source: [Flickr Commons](https://www.flickr.com/photos/state-records-nsw/2555504524/))
 
-The third sound design exercise in the course challenges students to synthesize a [steam train drive-by]({{< baseurl >}}/pages/readings-and-assignments/#EX3), with each group working on a different sound related to that problem. We start this process by dedicating an entire class session to the exemplary analysis of only the steam whistle sound that is part of this scene.  
+The third sound design exercise in the course challenges students to synthesize a {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "steam train drive-by" "#EX3" %}}, with each group working on a different sound related to that problem. We start this process by dedicating an entire class session to the exemplary analysis of only the steam whistle sound that is part of this scene.  
 
 First, I ask students to form teams. These teams go online to identify the most cliché steam whistle sound they can possibly find. We then play the examples for each other and decide which one is the best. It’s often slightly chaotic, but we do narrow it down, and the winning whistle becomes the focus of our analysis.
 
@@ -35,7 +38,7 @@ Instead of me lecturing, we look at a spectrogram of the sound together. This re
 Radio Play Scene Example
 ------------------------
 
-The [recording and editing assignment]({{< baseurl >}}/pages/readings-and-assignments/#ED) challenges students to implement the sounds (dialog plus sound effects) for a script of a short radio play scene. Students prepare the scenes in class, during an 80-minute period structured around a series of intense 15-minute group work sessions.
+The {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "recording and editing assignment" "#ED" %}} challenges students to implement the sounds (dialog plus sound effects) for a script of a short radio play scene. Students prepare the scenes in class, during an 80-minute period structured around a series of intense 15-minute group work sessions.
 
 First, we form teams. Then, in 15 minutes, I teach students what they need to know about microphones. After that, in groups, they write the scripts for a scene of their own imagination, and then, after another short tutorial about recording, they quickly move on to recording the sounds they’ll need to bring their scripts to life. Interspersed with the group work, I also teach them some basic sound editing techniques.
 

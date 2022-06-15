@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-380-music-and-technology-sound-design-spring-2016/0fb7483987a990842d38d0c2cdeb66e9_quiz2.zip
+file: /courses/21m-380-music-and-technology-sound-design-spring-2016/0fb7483987a990842d38d0c2cdeb66e9_quiz2.zip
 file_type: application/zip
 learning_resource_types:
 - Exams

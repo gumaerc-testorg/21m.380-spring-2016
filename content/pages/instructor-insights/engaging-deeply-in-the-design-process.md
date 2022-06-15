@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Florian Hollerweger discusses challenges students
+  face when engaging in the sound design process and strategies he uses to support
+  them.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +18,7 @@ _In this section, Dr. Florian Hollerweger discusses challenges students face whe
 Use a Visual to Navigate Stages of the Design Process
 -----------------------------------------------------
 
-For their [final project]({{< baseurl >}}/pages/readings-and-assignments#FP), students engage in the design process as outlined in Andy’s Farnell’s text _Designing Sound._  In this design process, students don’t write code immediately. Instead, they begin by analyzing, researching, and building models of the real-world sounds they hope to recreate.
+For their {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "final project" "#FP" %}}, students engage in the design process as outlined in Andy’s Farnell’s text _Designing Sound._  In this design process, students don’t write code immediately. Instead, they begin by analyzing, researching, and building models of the real-world sounds they hope to recreate.
 
 {{< resource "dc9546d2-0d82-249b-e168-922424bd1865" >}}
 
@@ -26,7 +29,7 @@ To help students strategically navigate the design process, I share with them a 
 Compare your Design to a Reference Recording
 --------------------------------------------
 
-To begin with, I ask students to pick a sound or sound environment from their everyday life that they'd like to recreate. [Examples of projects]({{< baseurl >}}/pages/readings-and-assignments#FP) in the last few years include popcorn popping in a microwave, a sailboat tacking on the open sea (complete with seagulls), dice being thrown across a wooden table, a quadcopter in flight, and a soccer penalty shootout. After chosing a suitable project, the students' next task is to make a 30-second representative recording of their target sound, to use as a reference throughout the design process.
+To begin with, I ask students to pick a sound or sound environment from their everyday life that they'd like to recreate. {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "Examples of projects" "#FP" %}} in the last few years include popcorn popping in a microwave, a sailboat tacking on the open sea (complete with seagulls), dice being thrown across a wooden table, a quadcopter in flight, and a soccer penalty shootout. After chosing a suitable project, the students' next task is to make a 30-second representative recording of their target sound, to use as a reference throughout the design process.
 
 I developed this strategy in response to my observation during the first year that I taught the course, that students tended to lose track of the big picture over the course of the month-long design process. The representative recording helps students maintain their focus, and it also helps me to better understand the sounds they are aiming for. Students often have a very personal connection to their sound that I don't necessarily share. When they come to office hours and share roadblocks they’re facing with their project, we can easily use the recording to go back to square one and discuss the essential qualities of the sound they’re aiming to recreate. This helps move the work forward.
 

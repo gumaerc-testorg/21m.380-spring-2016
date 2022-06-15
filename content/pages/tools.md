@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This page lists the specific hardware and software tools required to
+  complete the course assignments.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
-parent_uid: null
 title: Tools
 uid: 5c208247-ee3e-3aa3-b434-aa59574c20c3
 ---
@@ -243,7 +244,7 @@ Please begin by installing the current version of [Pd "vanilla."](http://puredat
 
 Later sections of the course may use [Pd-extended](http://puredata.info/downloads/pd-extended), which includes popular external libraries. (Since the creation of this class, Pd-extended has been superceded by [Pd-L2Ork](http://puredata.info/downloads/Pd-L2Ork).)
 
-Andy Farnell's Pd examples, which accompany his _Designing Sound_ book, are referenced and used extensively throughout the course. Please see the {{< resource_link 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc "Lecture Notes" >}} page for details.
+Andy Farnell's Pd examples, which accompany his _Designing Sound_ book, are referenced and used extensively throughout the course. Please see the {{% resource_link 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc "Lecture Notes" %}} page for details.
 
 ### Getting Started with Pd
 

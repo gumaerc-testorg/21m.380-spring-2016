@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section, Dr. Florian Hollerweger shares his insights about assessing\
+  \ students\u2019 learning in a class focused on creative work. He discusses how\
+  \ he shares his assessment criteria explicitly with students, how he provides students\
+  \ with personalized feedback, and how he has one-on-one conversations with students\
+  \ about their grade expectations in the course. "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
