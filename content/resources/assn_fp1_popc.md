@@ -5,6 +5,7 @@ description: 'This resource contains information regarding music and technology:
 file: /courses/21m-380-music-and-technology-sound-design-spring-2016/3568fcd185cca889842f301d26c7226a_assn_fp1_popc.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn_fp1_popc.zip
 uid: 3568fcd1-85cc-a889-842f-301d26c7226a
 ---
 This resource contains information regarding music and technology: Sound design.
-

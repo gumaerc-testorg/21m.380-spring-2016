@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Engaging Deeply in the Design Process
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: design stages
 uid: dc9546d2-0d82-249b-e168-922424bd1865
 ---
 Diagram of an ear surrounded by a circle of arrows connecting the stages of the design process.
-

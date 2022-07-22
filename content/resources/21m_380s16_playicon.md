@@ -9,6 +9,7 @@ image_metadata:
   image-alt: '"Play" button icon used in the lecture slides.'
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 21M_380S16_playicon
 uid: ab6005f3-df00-3685-52c7-6e9e02859e6d
 ---
 "Play" button icon used in the lecture slides.
-

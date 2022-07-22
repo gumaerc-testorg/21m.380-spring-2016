@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Learning Actively in Groups
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: steam train
 uid: 37a9f0d4-94bb-0d26-1a41-1aefec3022a9
 ---
 Archival black-and-white photo, side view of steam locomotive pulling several cars over a low bridge. Steam is blowing up out of the whistle.
-
