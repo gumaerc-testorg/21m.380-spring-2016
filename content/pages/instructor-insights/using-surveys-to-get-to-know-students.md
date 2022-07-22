@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: "In this section, Dr. Florian Hollerweger describes how he uses student\
+  \ surveys in 21M.380 Music and Technology: Sound Design to gain insight into students\u2019\
+  \ background knowledge and motivation for taking the course. "
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 title: Using Surveys to Get to Know Students
 uid: 9a135d4a-9e9f-94dc-4294-b14eb4eff138

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page summarizes the course goals, required hardware and software,
+  coursework and grading, and the calendar of topics and due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 25b295d7-aa9b-908d-da7c-839bfc27fb6b
 ---
@@ -31,12 +35,12 @@ There are no specific prerequisites for this course. Prior programming experienc
 Course Entrance Questionnaire
 -----------------------------
 
-Because the course has a cap on maximum enrollment, students are selected for admission into the course via a [questionnaire (PDF)](/courses/music-and-theater-arts/21m-380-music-and-technology-sound-design-spring-2016/Syllabus/MIT21M_380S16_survey.pdf).
+Because the course has a cap on maximum enrollment, students are selected for admission into the course via a {{% resource_link b0ebff77-383d-3b6a-3687-60fbe1c767d8 "questionnaire (PDF)" %}}.
 
 Required Hardware and Software
 ------------------------------
 
-You must have reliable access to additional audio editing hardware and software to work on your assignments. Please see the [Tools]({{< baseurl >}}/pages/tools) page for details.
+You must have reliable access to additional audio editing hardware and software to work on your assignments. Please see the {{% resource_link 5c208247-ee3e-3aa3-b434-aa59574c20c3 "Tools" %}} page for details.
 
 *   Desktop or laptop computer
 *   Studio headphones or nearfield monitor loudspeakers (not earphones or "earbuds")
@@ -53,7 +57,7 @@ Required Textbook
 
 I strongly recommend that you invest in a printed copy of this fantastic book, which you will most likely enjoy long after the end of this course.
 
-Additional required readings and a schedule of reading assignments are listed on the [Readings and Assignments]({{< baseurl >}}/pages/readings-and-assignments) page.
+Additional required readings and a schedule of reading assignments are listed on the {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "Readings and Assignments" %}} page.
 
 Assignments, Quizzes, and Grading
 ---------------------------------

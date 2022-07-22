@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: "In this section, Dr. Florian Hollerweger shares his insights about assessing\
+  \ students\u2019 learning in a class focused on creative work. He discusses how\
+  \ he shares his assessment criteria explicitly with students, how he provides students\
+  \ with personalized feedback, and how he has one-on-one conversations with students\
+  \ about their grade expectations in the course. "
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 title: Assessing Student Learning in Creative Contexts
 uid: f6d57f01-33d4-3f79-7996-735fd247192d
