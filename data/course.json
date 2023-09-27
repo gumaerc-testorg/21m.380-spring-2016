@@ -41,7 +41,7 @@
     "website": "21m-380-music-and-technology-sound-design-spring-2016"
   },
   "course_title": "Music and Technology: Sound Design",
-  "course_description": "In this course, we will rebuild the everyday sounds of nature, machines, and animals from scratch and encapsulate them in dynamic sound objects which can be embedded into computer games, animations, movies, virtual environments, sound installations, and theatre productions. You will learn how to analyze and model sounds and resynthesize them with the open-source graphical programming environment Pure Data (Pd). Our work will be guided by Andy Farnell's book _Designing Sound_ (MIT Press, 2010). No previous programming experience is required.\n",
+  "course_description": "In this course, we will rebuild the everyday sounds of nature, machines, and animals from scratch and encapsulate them in dynamic sound objects which can be embedded into computer games, animations, movies, virtual environments, sound installations, and theatre productions. You will learn how to analyze and model sounds and resynthesize them with the open-source graphical programming environment Pure Data (Pd). Our work will be guided by Andy Farnell's book _Designing Sound_ (MIT Press, 2010). No previous programming experience is required.",
   "department_numbers": [
     "21M"
   ],
@@ -54,8 +54,11 @@
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights",
+    "Demonstration Audio"
   ],
-  "site_uid": "86bffe7f-979d-4401-b1da-af11190184ee",
+  "site_uid": "0971a5ba-18a2-42e6-96ad-0f432a0510c0",
+  "site_short_id": "21m.380-spring-2016",
   "title": "Course Metadata"
 }
