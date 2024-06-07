@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-380-music-and-technology-sound-design-spring-2016/2ff4e6572053690e9f2a1b8ff0b40980_MIT21M_380S16_quiz1_sol.pdf
+file_size: 128809
 file_type: application/pdf
 learning_resource_types:
 - Exams
