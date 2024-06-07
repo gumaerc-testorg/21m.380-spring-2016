@@ -3,6 +3,7 @@ content_type: resource
 description: Diagram of an ear surrounded by a circle of arrows connecting the stages
   of the design process.
 file: /courses/21m-380-music-and-technology-sound-design-spring-2016/dc9546d20d82249be168922424bd1865_design_stages.png
+file_size: 51693
 file_type: image/png
 image_metadata:
   caption: ''
