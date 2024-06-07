@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding music and technology: Sound
   design.'
 file: /courses/21m-380-music-and-technology-sound-design-spring-2016/f0dabaed10cb88a060df89f1452e7cc0_assn_fp4_quad.zip
+file_size: 5215698
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
