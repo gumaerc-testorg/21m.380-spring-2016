@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding music and technology: Sound
   design: Student enrollment questionnaire.'
-file: /courses/21m-380-music-and-technology-sound-design-spring-2016/b0ebff77383d3b6a368760fbe1c767d8_MIT21M_380S16_survey.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-sound-design-spring-2016/b0ebff77383d3b6a368760fbe1c767d8_MIT21M_380S16_survey.pdf
 file_size: 121511
 file_type: application/pdf
 learning_resource_types: []
