@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-sound-design-spring-2016/472dfb233e5ca4505a2712328ca64d3a_21m380_examples.zip
+file: /courses/21m-380-music-and-technology-sound-design-spring-2016/472dfb233e5ca4505a2712328ca64d3a_21m380_examples.zip
 file_size: 4667364
 file_type: application/zip
 learning_resource_types:
