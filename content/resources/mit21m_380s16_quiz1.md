@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-sound-design-spring-2016/a30285e74692321c944765f2c79455f7_MIT21M_380S16_quiz1.pdf
+file: /courses/21m-380-music-and-technology-sound-design-spring-2016/a30285e74692321c944765f2c79455f7_MIT21M_380S16_quiz1.pdf
 file_size: 133431
 file_type: application/pdf
 learning_resource_types:
