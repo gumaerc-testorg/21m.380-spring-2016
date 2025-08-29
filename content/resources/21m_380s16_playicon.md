@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '"Play" button icon used in the lecture slides.'
-file: /courses/21m-380-music-and-technology-sound-design-spring-2016/ab6005f3df00368552c76e9e02859e6d_21M_380S16_playicon.png
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-sound-design-spring-2016/ab6005f3df00368552c76e9e02859e6d_21M_380S16_playicon.png
 file_size: 885
 file_type: image/png
 image_metadata:
