@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding music and technology: Sound
   design.'
-file: /courses/21m-380-music-and-technology-sound-design-spring-2016/166bdcae92c27d69400c55d14f27d04c_assn_fp3_motr.zip
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-sound-design-spring-2016/166bdcae92c27d69400c55d14f27d04c_assn_fp3_motr.zip
 file_size: 5835
 file_type: application/zip
 learning_resource_types: []
