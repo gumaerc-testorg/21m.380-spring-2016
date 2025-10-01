@@ -18,23 +18,23 @@ Reading assignments detailed in the table below are drawn from the following sou
 
 ### Required Textbook
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262014410) Farnell, Andy. _Designing Sound_. MIT Press, 2010. ISBN: 9780262014410. (Book and accompanying Pd example files.)
+{{% resource_link "b52796a2-0711-4faf-818e-2a4af4eebe20" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Farnell, Andy. _Designing Sound_. MIT Press, 2010. ISBN: 9780262014410. (Book and accompanying Pd example files.)
 
 *   **Note:** We will make extensive use of Andy Farnell's Pd examples, which accompany the _Designing Sound_ book and can be downloaded from the MIT Press website. Many of these Pd examples are referenced and linked within the course lecture notes; please see the {{% resource_link 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc "Lecture Notes" %}} page for detailed download and installation instructions.
 
-Chapters 1 and 9–14, which provide a practical introduction to Pd, are also available from the author's website: [Excerpt from Designing Sound (PDF)](http://aspress.co.uk/ds/pdf/pd_intro.pdf). Please note that the chapter numbers in this Excerpt version differ from those in the MIT Press textbook, and that the latter will be used for all references in the reading assignments schedule and any other course materials.
+Chapters 1 and 9–14, which provide a practical introduction to Pd, are also available from the author's website: {{% resource_link "59af9d15-2e91-44a3-b120-d363fdd8578b" "Excerpt from Designing Sound (PDF)" %}}. Please note that the chapter numbers in this Excerpt version differ from those in the MIT Press textbook, and that the latter will be used for all references in the reading assignments schedule and any other course materials.
 
 ### Additional Required Readings
 
-Anderson, Chris, et al. [_Film Sound Cliches: Film Sound Stereotypes and Common Logic Flaws_](http://www.filmsound.org/cliche/).
+Anderson, Chris, et al. {{% resource_link "7fb2c41f-5c89-4f56-ae62-45b8d3ddc2f1" "_Film Sound Cliches: Film Sound Stereotypes and Common Logic Flaws_" %}}.
 
-Crawford, Chris. "The Computer as a Game Technology." Chapter 4 in _[The Art of Computer Game Design: Reflections Of a Master Game Designer (PDF)](http://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf)_. Osborne / McGraw-Hill, 1984, pp. 35–44. ISBN: 9780881341171. (Electronic edition of a text originally published in 1982.)
+Crawford, Chris. "The Computer as a Game Technology." Chapter 4 in _{{% resource_link "b6150db7-74bd-4584-9a28-7584d41e8754" "The Art of Computer Game Design: Reflections Of a Master Game Designer (PDF)" %}}_. Osborne / McGraw-Hill, 1984, pp. 35–44. ISBN: 9780881341171. (Electronic edition of a text originally published in 1982.)
 
-Ament, Vanessa Theme. "What We Use for . . . Performing the Props." Chapter 8 in _The Foley Grail: The Art of Performing Sound for Film, Games, and Animation_. 1st ed. Focal Press, 2009, pp. 89–101. ISBN: 9780240811253. \[Preview with [Google Books](http://books.google.com/books?id=sE-I0xjti-YC&pg=PAfrontcover)\]
+Ament, Vanessa Theme. "What We Use for . . . Performing the Props." Chapter 8 in _The Foley Grail: The Art of Performing Sound for Film, Games, and Animation_. 1st ed. Focal Press, 2009, pp. 89–101. ISBN: 9780240811253. \[Preview with {{% resource_link "a6b0389b-1094-4b51-b208-8764b123a50d" "Google Books" %}}\]
 
-Mars, Roman. "[99% Invisible—Episode 15: The Sound of the Artificial World](https://soundcloud.com/roman-mars/99-invisible-15-sounds-of-the/)." Podcast, 2011. 4'54".
+Mars, Roman. "{{% resource_link "3edd64dc-6bf6-40e3-9da1-7d72952f3d5f" "99% Invisible—Episode 15: The Sound of the Artificial World" %}}." Podcast, 2011. 4'54".
 
-Westerkamp, Hildegard. "Soundwalking." In _Autumn Leaves. Sound and the Environment in Artistic Practice_. Edited by Angus Carlyle. Double Entendre, 2007, pp. 49–54. ISBN: 9780954807436. (Also available in a slightly different [online version](http://econtact.ca/4_3/Soundwalking.html) from eContact!, an online journal for electroacoustic practices.)
+Westerkamp, Hildegard. "Soundwalking." In _Autumn Leaves. Sound and the Environment in Artistic Practice_. Edited by Angus Carlyle. Double Entendre, 2007, pp. 49–54. ISBN: 9780954807436. (Also available in a slightly different {{% resource_link "493cfac6-5c60-4960-9c82-09c93c3d2894" "online version" %}} from eContact!, an online journal for electroacoustic practices.)
 
 ### Written Responses to Reading Assignments
 

@@ -21,7 +21,7 @@ The complete set of lecture slides are given here compiled in a single file. Wit
 
 {{% resource_link "472dfb23-3e5c-a450-5a27-12328ca64d3a" "Audio examples (ZIP - 4.6MB)" %}}
 
-[Pd patches](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/8375/designing_sound.zip/index.html) from Andy Farnell's *Designing Sound*
+{{% resource_link "3a508054-0052-4e56-9ed1-941072ad18e3" "Pd patches" %}} from Andy Farnell's *Designing Sound*
 
 While viewing the slides on your screen, clicking on any "play button" icon
 
