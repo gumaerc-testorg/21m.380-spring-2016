@@ -227,7 +227,7 @@ Table 1: Some headphones suitable for use in this course
 
 This video explains the differences between open- and closed-back headphones in detail:
 
-*   Shure. "[The Differences Between Open-back and Closed-back Headphones](https://www.youtube.com/watch?v=oqsyaHlZ6ro)." YouTube. April 20, 2012.
+*   Shure. "{{% resource_link "7bb229ec-4803-4c99-860a-b6ab84a6d5f4" "The Differences Between Open-back and Closed-back Headphones" %}}." YouTube. April 20, 2012.
 
 If you will be working on assignments using the Music Library iMacs, the library also has AKG K240 Studio headphones available for MIT student use. If you already have a pair of studio headphones or nearfield monitor loudspeakers, or if you are planning to acquire a pair of the latter, feel free to consult me regarding their suitability for this class.
 
@@ -236,13 +236,13 @@ Pure Data (Pd)
 
 Our main software tool will be Pure Data (also known as Pd), a free (as in beer _and_ speech) graphical multimedia programming environment.
 
-Please begin by installing the current version of [Pd "vanilla."](http://puredata.info/downloads/pure-data) The Spring 2016 class used version 0.46.7.
+Please begin by installing the current version of {{% resource_link "ddcca6cd-24bc-4170-ac34-07324864ef9e" "Pd \"vanilla.\"" %}} The Spring 2016 class used version 0.46.7.
 
 *   For Debian-based Linux systems (e.g., Ubuntu), install Pd through your package manager, e.g., via _sudo apt-get install puredata_ or through the _Ubuntu Software Center_ utility.
-*   For Mac OS X, the [Pure Data downloads page](http://puredata.info/downloads/pure-data) provides a tarball that contains Pd as an .app directory, which you can put straight into your _Macintosh HD > Applications_ folder.
-*   For Windows, download Pd as a .zip archive from the [Pure Data downloads page](http://puredata.info/downloads/pure-data). Inside that archive, you will find the actual executable program under _pd > bin > pd.exe_.
+*   For Mac OS X, the {{% resource_link "ddcca6cd-24bc-4170-ac34-07324864ef9e" "Pure Data downloads page" %}} provides a tarball that contains Pd as an .app directory, which you can put straight into your _Macintosh HD > Applications_ folder.
+*   For Windows, download Pd as a .zip archive from the {{% resource_link "ddcca6cd-24bc-4170-ac34-07324864ef9e" "Pure Data downloads page" %}}. Inside that archive, you will find the actual executable program under _pd > bin > pd.exe_.
 
-Later sections of the course may use [Pd-extended](http://puredata.info/downloads/pd-extended), which includes popular external libraries. (Since the creation of this class, Pd-extended has been superceded by [Pd-L2Ork](http://puredata.info/downloads/Pd-L2Ork).)
+Later sections of the course may use {{% resource_link "24688ae7-d1a3-4556-9c49-28d6ed8c385b" "Pd-extended" %}}, which includes popular external libraries. (Since the creation of this class, Pd-extended has been superceded by {{% resource_link "2bf799eb-a689-473e-ae36-439610365baf" "Pd-L2Ork" %}}.)
 
 Andy Farnell's Pd examples, which accompany his _Designing Sound_ book, are referenced and used extensively throughout the course. Please see the {{% resource_link 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc "Lecture Notes" %}} page for details.
 
@@ -250,17 +250,17 @@ Andy Farnell's Pd examples, which accompany his _Designing Sound_ book, are refe
 
 If you are having trouble getting audio out of Pure Data, or working with patches, this video shows very basic use of the Pd interface to create sound and manipulate a patch.
 
-*   vreahli. "[Beginner's Puredata Tutorial Part 1 of 2](https://www.youtube.com/watch?v=FkmMzqohsDo)." YouTube. Dec. 2, 2007. Accessed Nov. 3, 2016.
+*   vreahli. "{{% resource_link "e13dce04-39ee-4762-8ad6-f1efb554033f" "Beginner's Puredata Tutorial Part 1 of 2" %}}." YouTube. Dec. 2, 2007. Accessed Nov. 3, 2016.
 
 There are many other online tutorials on Pure Data and related topics. See these two collections on the Pure Data website:
 
-*   [Resources to Start Learning](http://puredata.info/docs/ResourcesToStartLearning)
-*   [Pd Tutorials and HOWTOs?](https://puredata.info/docs/tutorials)
+*   {{% resource_link "1bf89975-07db-4d88-a0f5-e7ccbf147e89" "Resources to Start Learning" %}}
+*   {{% resource_link "54fcc87e-ca7d-44c8-a620-57679fc1e853" "Pd Tutorials and HOWTOs?" %}}
 
 Audio Editing Software
 ----------------------
 
-You will also require a digital audio editor, such as one of the software packages listed in the following table. The free open-source [Audacity](http://audacity.sourceforge.net/) editor (for Linux, Mac, Windows) is a perfectly reasonable choice, and is installed on several iMacs in the Lewis Music Library. A multichannel digital audio workstation (DAW) such as Reaper, Logic Pro, Pro Tools, or Ardour is beyond our needs, but if you already have access to one of these, you are welcome to use it for your editing.
+You will also require a digital audio editor, such as one of the software packages listed in the following table. The free open-source {{% resource_link "b7c5b4ea-e22f-417b-ac1c-39b1f3cbffad" "Audacity" %}} editor (for Linux, Mac, Windows) is a perfectly reasonable choice, and is installed on several iMacs in the Lewis Music Library. A multichannel digital audio workstation (DAW) such as Reaper, Logic Pro, Pro Tools, or Ardour is beyond our needs, but if you already have access to one of these, you are welcome to use it for your editing.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -394,7 +394,7 @@ Table 2: Some audio editors suitable for use in this course
 Sonic Visualiser
 ----------------
 
-[Sonic Visualiser](http://sonicvisualiser.org/) is a free, open-source, cross-platform tool for visualizing sound files (spectrum, spectrogram, etc.). Please install the current version. (The Spring 2016 class used version 2.5).
+{{% resource_link "3ffebf57-88a1-4311-9a61-76c22495b19e" "Sonic Visualiser" %}} is a free, open-source, cross-platform tool for visualizing sound files (spectrum, spectrogram, etc.). Please install the current version. (The Spring 2016 class used version 2.5).
 
 Handheld Digital Audio Recorders
 --------------------------------
